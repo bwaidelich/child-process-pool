@@ -1,0 +1,22 @@
+{
+    "name": "wwwision/child-process-pool",
+    "description": "A simple CLI tool that pools child processes",
+    "type": "project",
+    "require": {
+        "react/socket": "^1.12",
+        "react/child-process": "^0.6.5",
+        "symfony/console": "^6.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wwwision\\ChildProcessPool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bwaidelich",
+            "email": "b.waidelich@wwwision.de"
+        }
+    ]
+}
