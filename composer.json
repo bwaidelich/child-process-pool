@@ -5,7 +5,7 @@
     "require": {
         "react/socket": "^1.12",
         "react/child-process": "^0.6.5",
-        "symfony/console": "^6.2"
+        "symfony/console": "5.4 || ^6.2"
     },
     "license": "MIT",
     "autoload": {
